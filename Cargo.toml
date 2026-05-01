@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "client-desktop/src-tauri",
+    "server",
+    "common"
+]
+resolver = "2"
